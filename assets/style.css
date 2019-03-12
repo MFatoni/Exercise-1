@@ -14,5 +14,6 @@ body, html {height: 100%;width: 100%}
 @media only screen and (max-width: 992px) {
 	.hide {display: none;}
 	.top1 {text-align: center;}
+	.minim >p {font-size: 14px}
 	.top1 > img {height: 100%;width: 25%}
 }
